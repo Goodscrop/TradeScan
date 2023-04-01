@@ -1,0 +1,2 @@
+# TradeScan
+Tradescam script
